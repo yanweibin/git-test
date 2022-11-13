@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("push to remote!");
         System.out.println("pull add code");
         System.out.println("本地master修改一遍，演示代码冲突！");
+        System.out.println("在远程添加一段代码，演示冲突！");
     }
 }
