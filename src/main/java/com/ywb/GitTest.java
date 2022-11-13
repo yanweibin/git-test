@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("master test！");
         System.out.println("hot-fix test！");
         System.out.println("push to remote!");
+        System.out.println("pull add code");
     }
 }
