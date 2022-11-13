@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hot-fix test！");
         System.out.println("push to remote!");
         System.out.println("pull add code");
+        System.out.println("在远程添加一段代码，演示冲突！");
     }
 }
